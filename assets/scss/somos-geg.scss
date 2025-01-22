@@ -1,0 +1,48 @@
+.valores {
+    .valor {
+        background-color: $bg-color-gris-extra-oscuro;
+        color: $font-color-secondary;
+        width: 100%;
+        min-height: 300px;
+        float: left;
+        text-align: center;
+        padding: 30px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        overflow: hidden;
+        position: relative;
+        @include transition(ease, 0.3s);
+
+        .caption-hover {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            opacity: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 30px;
+            @include transition(ease, 0.3s);
+
+            p {
+                margin-bottom: 0;
+            }
+        }
+
+        &:hover,
+        &:focus {
+            background-color: $bg-color-verde;
+
+            .caption {
+                opacity: 0;
+            }
+
+            .caption-hover {
+                opacity: 1;
+            }
+        }
+    }
+}

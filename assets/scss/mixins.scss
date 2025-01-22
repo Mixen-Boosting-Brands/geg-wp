@@ -1,0 +1,91 @@
+// Mouse selection
+@mixin selection($color, $background) {
+    ::-moz-selection {
+        color: $color;
+        background: $background;
+    }
+    ::selection {
+        color: $color;
+        background: $background;
+    }
+}
+
+// Transitions
+@mixin transition($property, $time) {
+  -webkit-transition: $property $time;
+       -o-transition: $property $time;
+          transition: $property $time;
+}
+
+@mixin transition-menu($time) {
+    -webkit-transition: $time;
+         -o-transition: $time;
+            transition: $time;
+}
+
+// Transform scale
+@mixin transform-scale($foo) {
+    -webkit-transform: scale($foo);
+        -ms-transform: scale($foo);
+            transform: scale($foo);
+}
+
+// Absolute centering X
+@mixin absolute-center-x {
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+}
+
+// Absolute centering Y
+@mixin absolute-center-y {
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+        -ms-transform: translateY(-50%);
+            transform: translateY(-50%);
+}
+
+// Background images for sections
+@mixin background($imgPath, $position, $size) {
+    background: url($imgPath) no-repeat;
+    background-position: $position;
+    background-size: $size;
+}
+
+// WhatsApp button
+@mixin whatsapp-button {
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 20px;
+    right: 20px;
+    background-color: #25d366;
+    color: #fff;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 30px;
+    z-index: 100;
+
+    .whatsapp-icon {
+        margin-top: 13px;
+    }
+
+    &:hover,
+    &:focus {
+        color: #fff;
+    }
+}
+
+// Animate carousel text
+@mixin animate-carousel-text {
+    @keyframes animate-carousel-text {
+        0% {
+            opacity: 0;
+            transform: translate(-3em, 0);
+        }
+        100% {
+            opacity: 1;
+            transform: translate(0, 0);
+        }
+    }
+}

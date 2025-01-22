@@ -1,0 +1,57 @@
+.certificaciones {
+    .card {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 300px;
+
+        a {
+            color: $font-color-primary;
+            text-decoration: none;
+
+            &:hover,
+            &:focus {
+                text-decoration: underline;
+            }
+        }
+
+        .card-body {
+            flex: none;
+            position: relative;
+
+            img {
+                max-height: 152px;
+            }
+
+            .texto,
+            .texto-hover {
+                @include transition(ease, 0.3s);
+            }
+
+            .texto-hover {
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                opacity: 0;
+                text-align: center;
+                padding: 50px;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+
+            &:hover,
+            &:focus {
+                .texto {
+                    opacity: 0;
+                }
+
+                .texto-hover {
+                    opacity: 1;
+                }
+            }
+        }
+    }
+}

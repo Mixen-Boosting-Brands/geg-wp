@@ -1,0 +1,330 @@
+// No media query necessary for xs breakpoint as it's effectively `@media (min-width: 0) { ... }`
+
+// Small devices (landscape phones, 576px and up)
+@include media-breakpoint-up(sm) {
+    .menu {
+        width: 80%;
+
+        .menu-contenido {
+            width: 100%;
+        }
+    }
+
+    .carrusel-tipo-1,
+    .carrusel-tipo-1-movil {
+        .carousel {
+            .carousel-inner {
+                .carousel-item {
+                    .overlay {
+                        h1 {
+                            font-size: calc(2.375rem + 1.5vw);
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    .carrusel-tipo-2,
+    .carrusel-tipo-3 {
+        .carousel {
+            .carousel-control-prev {
+                left: -68px;
+            }
+    
+            .carousel-control-next {
+                right: -68px;
+            }
+        }
+    }
+
+    .banner-superior {
+        .overlay {
+            h1 {
+                font-size: calc(2.375rem + 1.5vw);
+            }
+        }
+    }
+
+    .proyectos {
+        .fotos-proyectos {
+            .carousel-cell {
+                height: 320px;
+             }
+        }
+    }
+}
+
+// Medium devices (tablets, 768px and up)
+@include media-breakpoint-up(md) {
+    .menu {
+        width: 66%;
+
+        .menu-contenido {
+            width: 100%;
+        }
+    }
+
+    .titulo-doble {
+        display: inline-block !important;
+    }
+
+    .guion-izq,
+    .guion-izq-centrado {
+        padding-left: 40px;
+    
+        &::before {
+            content: '';
+            top: 18px;
+            left: 0;
+        }
+    }
+    
+    .guion-der {
+        &::after {
+            content: '';
+            top: 18px;
+            right: -40px;
+        }
+    }
+
+    .carrusel-tipo-1,
+    .carrusel-tipo-1-movil {
+        .carousel {
+            .carousel-inner {
+                .carousel-item {
+                    .overlay {
+                        .caption {
+                            margin: 0;
+                        }
+
+                        h1 {
+                            font-size: calc(3.375rem + 1.5vw);
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    .carrusel-tipo-2,
+    .carrusel-tipo-3 {
+        .carousel {
+            .carousel-control-prev,
+            .carousel-control-next {
+                font-size: 3rem;
+            }
+    
+            .carousel-control-prev {
+                left: -91px;
+            }
+    
+            .carousel-control-next {
+                right: -91px;
+            }
+        }
+    }
+
+    .carrusel-tipo-5 {
+        .slider-vacantes {
+            height: 478px;
+        }
+    }
+
+    .banner-superior {
+        .overlay {
+            h1 {
+                font-size: calc(3.375rem + 1.5vw);
+            }
+        }
+    }
+
+    .proyectos {
+        .fotos-proyectos {
+            .carousel-cell {
+                height: 433px;
+             }
+        }
+    }
+}
+
+// Large devices (desktops, 992px and up)
+@include media-breakpoint-up(lg) {
+    body {
+        .btn-lang {
+            bottom: 30px;
+            right: 30px;
+        }
+
+        .btn-intranet {
+            bottom: 30px;
+            left: 30px;
+        }
+    }
+
+    .menu {
+        width: 40%;
+
+        .menu-contenido {
+            width: 80%;
+        }
+    }
+    
+    header#navbar {
+        nav {
+            .contenedor-navbar {
+                width: 100%;
+                float: left;
+
+                .navbar-top,
+                .navbar-bottom {
+                    display: flex;
+                    justify-content: space-between;
+                }
+
+                .navbar-bottom {
+                    .nav-link {
+                        font-weight: 700;
+                    }
+                }
+
+                hr {
+                    width: 130%;
+                    float: left;
+                    margin: 0.5rem 0;
+                    border-top: 1px solid $bg-color-primary;
+                }
+            }
+        }
+    }
+
+    .carrusel-tipo-1,
+    .carrusel-tipo-1-movil {
+        .carousel {
+            .carousel-inner {
+                .carousel-item {
+                    .overlay {
+                        h1 {
+                            font-size: calc(4.375rem + 1.5vw);
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    .carrusel-tipo-2,
+    .carrusel-tipo-3 {
+        .carousel {
+            .carousel-control-prev {
+                left: -112px;
+            }
+    
+            .carousel-control-next {
+                right: -112px;
+            }
+        }
+    }
+
+    .banner-superior {
+        .overlay {
+            h1 {
+                font-size: calc(4.0rem + 1.5vw);
+            }
+        }
+    }
+
+    .proyectos {
+        .fotos-proyectos {
+            .carousel-cell {
+                height: 332px;
+             }
+        }
+    }
+
+    .casos-de-exito {
+        .logo-cliente {    
+            &:hover {
+                -webkit-filter: grayscale(0%);
+                        filter: grayscale(0%);
+            }
+        }
+    }
+}
+
+// X-Large devices (large desktops, 1200px and up)
+@include media-breakpoint-up(xl) {
+    header#navbar {
+        nav {
+            .contenedor-navbar {
+                hr {
+                    width: 122%;
+                    float: left;
+                    margin: 0.5rem 0;
+                    border-top: 1px solid $bg-color-primary;
+                }
+            }
+        }
+    }
+
+    .carrusel-tipo-2,
+    .carrusel-tipo-3 {
+        .carousel {
+            .carousel-control-prev {
+                left: -162px;
+            }
+    
+            .carousel-control-next {
+                right: -162px;
+            }
+        }
+    }
+
+    .card {
+        .card-image {
+            &::before {
+                position: absolute;
+                top: 0;
+                content: '';
+                width: 0;
+                height: 0;
+                border-style: solid;
+            }
+        }
+
+        .card-image-right {
+            &::before {
+                left: 0;
+                border-width: 450px 60px 0 0;
+                border-color: $secondary transparent transparent transparent;
+            }
+        }
+
+        .card-image-left {
+            &::before {
+                right: 0;
+                border-width: 0 60px 450px 0; 
+                border-color: transparent $secondary transparent transparent;
+            }
+        }
+    }
+
+    .proyectos {
+        .fotos-proyectos {
+            .carousel-cell {
+                height: 398px;
+             }
+        }
+    }
+}
+
+// XX-Large devices (larger desktops, 1400px and up)
+@include media-breakpoint-up(xxl) {
+    .proyectos {
+        .fotos-proyectos {
+            .carousel-cell {
+                height: 464px;
+             }
+        }
+    }
+}

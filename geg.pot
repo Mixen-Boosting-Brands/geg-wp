@@ -1,0 +1,815 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Global Engineering Group\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-08 15:48+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.1.1\n"
+"X-Domain: geg"
+
+#: page-movimiento-global.php:61
+msgid " Por favor introduce un correo electrónico válido."
+msgstr ""
+
+#: single.php:24
+#, php-format
+msgid "% comentarios"
+msgstr ""
+
+#: single.php:24
+msgid "1 comentario"
+msgstr ""
+
+#: page-bolsa-de-trabajo.php:125 page-contactanos.php:643
+#: page-movimiento-global.php:176 includes/formulario-proveedores.php:264
+#: includes/formulario-contratistas.php:279
+msgid "Acepto el"
+msgstr ""
+
+#: includes/formulario-proveedores.php:252
+msgid "Acta constitutiva"
+msgstr ""
+
+#: includes/formulario-proveedores.php:139
+#: includes/formulario-contratistas.php:172
+msgid "Administrativo"
+msgstr ""
+
+#: includes/formulario-proveedores.php:71
+#: includes/formulario-proveedores.php:73
+#: includes/formulario-contratistas.php:61
+#: includes/formulario-contratistas.php:63
+msgid "Afianzadora"
+msgstr ""
+
+#: includes/formulario-proveedores.php:2 includes/formulario-contratistas.php:2
+msgid "Apartado legal"
+msgstr ""
+
+#: archive.php:9
+msgid "Archivos"
+msgstr ""
+
+#: author.php:6
+msgid "Archivos de "
+msgstr ""
+
+#: page-asi-lo-construimos.php:15
+msgid "Así lo"
+msgstr ""
+
+#. Name of the template
+msgid "Así lo construimos"
+msgstr ""
+
+#: footer.php:146
+msgid "Aviso de Privacidad"
+msgstr ""
+
+#: taxonomy-estado.php:82 single-proyectos.php:43
+#: includes/carrusel-proyectos.php:48 includes/carrusel-proyectos.php:157
+msgid "Año:"
+msgstr ""
+
+#: includes/formulario-contratistas.php:119
+#: includes/formulario-contratistas.php:121
+msgid "Años de experiencia"
+msgstr ""
+
+#. Name of the template
+msgid "Bolsa de trabajo"
+msgstr ""
+
+#: includes/formulario-proveedores.php:117
+#: includes/formulario-contratistas.php:150
+msgid "Calidad"
+msgstr ""
+
+#: includes/formulario-proveedores.php:60
+#: includes/formulario-proveedores.php:62
+#: includes/formulario-contratistas.php:50
+#: includes/formulario-contratistas.php:52
+msgid "Capital contable"
+msgstr ""
+
+#: page-movimiento-global.php:87 page-movimiento-global.php:89
+msgid "Carrera"
+msgstr ""
+
+#: includes/formulario-proveedores.php:229
+#: includes/formulario-contratistas.php:262
+msgid "Carta de presentación"
+msgstr ""
+
+#: page-asi-lo-construimos.php:73 includes/formulario-contratistas.php:130
+#: includes/formulario-contratistas.php:132
+msgid "Certificaciones"
+msgstr ""
+
+#: page-contactanos.php:62 page-contactanos.php:64
+msgid "Ciudad"
+msgstr ""
+
+#: page-bolsa-de-trabajo.php:103 page-bolsa-de-trabajo.php:104
+msgid "Comentarios"
+msgstr ""
+
+#: includes/formulario-proveedores.php:232
+msgid "Comprobante de domicilio"
+msgstr ""
+
+#: page-movimiento-global.php:22
+msgid "Conoce"
+msgstr ""
+
+#: taxonomy-estado.php:13
+msgid "Conoce nuestras relaciones y proyectos"
+msgstr ""
+
+#: page-asi-lo-construimos.php:15
+msgid "construimos"
+msgstr ""
+
+#: includes/formulario-proveedores.php:138
+#: includes/formulario-contratistas.php:171
+msgid "Contacto"
+msgstr ""
+
+#. Name of the template
+#: footer.php:82 page-contactanos.php:15
+msgid "Contáctanos"
+msgstr ""
+
+#: page-movimiento-global.php:199
+msgid "Convenios"
+msgstr ""
+
+#: page-contactanos.php:19
+msgid "Corporativo"
+msgstr ""
+
+#: page-bolsa-de-trabajo.php:56 page-bolsa-de-trabajo.php:58
+#: page-contactanos.php:608 page-contactanos.php:610
+#: page-movimiento-global.php:54 page-movimiento-global.php:56
+#: includes/formulario-proveedores.php:163
+#: includes/formulario-proveedores.php:165
+#: includes/formulario-proveedores.php:208
+#: includes/formulario-proveedores.php:210
+#: includes/formulario-contratistas.php:196
+#: includes/formulario-contratistas.php:198
+#: includes/formulario-contratistas.php:241
+#: includes/formulario-contratistas.php:243
+msgid "Correo electrónico"
+msgstr ""
+
+#: includes/formulario-contratistas.php:141
+#: includes/formulario-contratistas.php:142
+msgid "Cursos tomados"
+msgstr ""
+
+#: page-contactanos.php:646 includes/formulario-proveedores.php:267
+#: includes/formulario-contratistas.php:282
+msgid ""
+"Debes de aceptar nuestro aviso de privacidad para poder enviar el formulario."
+msgstr ""
+
+#: page-bolsa-de-trabajo.php:128 page-movimiento-global.php:179
+msgid ""
+"Debes de aceptar nuestro aviso de privacidad para poder enviar tu currículum."
+msgstr ""
+
+#: single.php:24
+msgid "Deja tus comentarios"
+msgstr ""
+
+#. Name of the template
+msgid "Demo Page Template"
+msgstr ""
+
+#: page-somos-geg.php:50
+msgid "Desarrollamos"
+msgstr ""
+
+#: includes/formulario-proveedores.php:129
+#: includes/formulario-proveedores.php:130
+#: includes/formulario-contratistas.php:163
+msgid "Describa sus políticas de garantía"
+msgstr ""
+
+#: includes/formulario-contratistas.php:162
+msgid "Describe sus políticas de garantía"
+msgstr ""
+
+#: footer.php:19 page-contactanos.php:21
+msgid "Dirección"
+msgstr ""
+
+#: page-bolsa-de-trabajo.php:22
+msgid "Disponibles"
+msgstr ""
+
+#: includes/formulario-proveedores.php:44
+msgid "Distribuidor"
+msgstr ""
+
+#: page-movimiento-global.php:65 page-movimiento-global.php:67
+msgid "Edad"
+msgstr ""
+
+#: includes/formulario-contratistas.php:265
+msgid "Elegir archivo"
+msgstr ""
+
+#: page-contactanos.php:51 page-contactanos.php:53
+msgid "Empresa"
+msgstr ""
+
+#: page-movimiento-global.php:199
+msgid "Empresariales"
+msgstr ""
+
+#: page-bolsa-de-trabajo.php:133 page-contactanos.php:651
+#: page-movimiento-global.php:184 includes/formulario-proveedores.php:272
+#: includes/formulario-contratistas.php:287
+msgid "Enviar"
+msgstr ""
+
+#: taxonomy-estado.php:22 page-nuestra-especialidad.php:15
+msgid "especialidad"
+msgstr ""
+
+#: includes/formulario-proveedores.php:48
+#: includes/formulario-proveedores.php:50
+#: includes/formulario-contratistas.php:38
+#: includes/formulario-contratistas.php:40
+msgid "Especialidad de la empresa"
+msgstr ""
+
+#: includes/formulario-proveedores.php:36
+#: includes/formulario-contratistas.php:36
+msgid "Especialización"
+msgstr ""
+
+#: page-bolsa-de-trabajo.php:135 page-contactanos.php:653
+#: page-movimiento-global.php:186 includes/formulario-proveedores.php:274
+#: includes/formulario-contratistas.php:289
+msgid "Espera un momento por favor..."
+msgstr ""
+
+#: page-contactanos.php:73 page-contactanos.php:74 page-contactanos.php:108
+#: page-movimiento-global.php:120 page-movimiento-global.php:121
+#: page-movimiento-global.php:155
+msgid "Estado"
+msgstr ""
+
+#: tag.php:6
+msgid "Etiquetas: "
+msgstr ""
+
+#: includes/formulario-proveedores.php:106
+#: includes/formulario-contratistas.php:96
+msgid "Experiencia"
+msgstr ""
+
+#: includes/formulario-proveedores.php:40
+msgid "Fabricante"
+msgstr ""
+
+#: includes/formulario-proveedores.php:58
+#: includes/formulario-contratistas.php:48
+msgid "Financiero"
+msgstr ""
+
+#: page-proveedores-y-contratistas.php:45
+msgid "Formulario Contratistas"
+msgstr ""
+
+#: page-proveedores-y-contratistas.php:31
+msgid "Formulario Proveedores"
+msgstr ""
+
+#. Name of the theme
+msgid "Global Engineering Group"
+msgstr ""
+
+#. Name of the template
+msgid "Global News & Blog"
+msgstr ""
+
+#: footer.php:146
+msgid "Hecho con"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://mixen.mx/"
+msgstr ""
+
+#: page-asi-lo-construimos.php:56
+msgid "La calidad de nuestro servicio"
+msgstr ""
+
+#: page-asi-lo-construimos.php:24
+msgid "La seguridad está primero"
+msgstr ""
+
+#: page-movimiento-global.php:37
+msgid "Llena el siguiente formulario"
+msgstr ""
+
+#: 404.php:17
+msgid ""
+"Lo sentimos, la página que solicitaste no existe o cambió de ubicación. Te "
+"recomendamos"
+msgstr ""
+
+#: loop.php:36 single-vacantes.php:21 single.php:42 page.php:21
+msgid "Lo sentimos, no hay nada que mostrar aquí."
+msgstr ""
+
+#: 404.php:7
+msgid "Lo sentimos, ocurrió un error."
+msgstr ""
+
+#: page-movimiento-global.php:22
+msgid "los beneficios"
+msgstr ""
+
+#: page-somos-geg.php:59
+msgid "Misión"
+msgstr ""
+
+#. Author of the theme
+msgid "Mixen: Boosting Brands"
+msgstr ""
+
+#. Name of the template
+msgid "Movimiento Global"
+msgstr ""
+
+#: page-somos-geg.php:231
+msgid "Nacional"
+msgstr ""
+
+#: footer.php:30
+msgid "Navegación"
+msgstr ""
+
+#: includes/formulario-proveedores.php:96
+#: includes/formulario-contratistas.php:86
+msgid "No"
+msgstr ""
+
+#: page-bolsa-de-trabajo.php:45 page-bolsa-de-trabajo.php:47
+msgid "Nombre"
+msgstr ""
+
+#: includes/formulario-proveedores.php:15
+#: includes/formulario-proveedores.php:17
+#: includes/formulario-contratistas.php:15
+#: includes/formulario-contratistas.php:17
+msgid "Nombre comercial"
+msgstr ""
+
+#: page-contactanos.php:40 page-contactanos.php:42
+#: page-movimiento-global.php:43 page-movimiento-global.php:45
+#: includes/formulario-proveedores.php:141
+#: includes/formulario-proveedores.php:143
+#: includes/formulario-proveedores.php:186
+#: includes/formulario-proveedores.php:188
+#: includes/formulario-contratistas.php:174
+#: includes/formulario-contratistas.php:176
+#: includes/formulario-contratistas.php:219
+#: includes/formulario-contratistas.php:221
+msgid "Nombre completo"
+msgstr ""
+
+#: taxonomy-estado.php:22 page-nuestra-especialidad.php:15
+msgid "Nuestra"
+msgstr ""
+
+#. Name of the template
+msgid "Nuestra especialidad"
+msgstr ""
+
+#: page-contactanos.php:117 page-contactanos.php:118 page-contactanos.php:599
+msgid "País"
+msgstr ""
+
+#: footer.php:146
+msgid "por"
+msgstr ""
+
+#: page-bolsa-de-trabajo.php:74 page-contactanos.php:626
+#: page-movimiento-global.php:83 includes/formulario-proveedores.php:159
+#: includes/formulario-proveedores.php:181
+#: includes/formulario-proveedores.php:204
+#: includes/formulario-proveedores.php:226
+#: includes/formulario-contratistas.php:192
+#: includes/formulario-contratistas.php:214
+#: includes/formulario-contratistas.php:237
+#: includes/formulario-contratistas.php:259
+msgid "Por favor escribe un número de teléfono válido (Ej: 6561234567)."
+msgstr ""
+
+#: includes/formulario-proveedores.php:125
+#: includes/formulario-contratistas.php:158
+msgid ""
+"Por favor introduce cómo garantiza tu empresa la calidad de sus productos o "
+"equipos que suministra."
+msgstr ""
+
+#: includes/formulario-proveedores.php:67
+#: includes/formulario-contratistas.php:57
+msgid "Por favor introduce el capital contable de la empresa."
+msgstr ""
+
+#: page-contactanos.php:58
+msgid "Por favor introduce el nombre de tu empresa."
+msgstr ""
+
+#: page-movimiento-global.php:116
+msgid "Por favor introduce el nombre de tu universidad."
+msgstr ""
+
+#: includes/formulario-proveedores.php:89
+#: includes/formulario-contratistas.php:79
+msgid "Por favor introduce el volumen anual de ventas de la empresa."
+msgstr ""
+
+#: includes/formulario-proveedores.php:78
+#: includes/formulario-contratistas.php:68
+msgid "Por favor introduce la afianzadora de la empresa."
+msgstr ""
+
+#: includes/formulario-proveedores.php:55
+#: includes/formulario-contratistas.php:45
+msgid "Por favor introduce la especialidad de la empresa."
+msgstr ""
+
+#: includes/formulario-proveedores.php:135
+#: includes/formulario-contratistas.php:168
+msgid "Por favor introduce las políticas de garantía de tu empresa."
+msgstr ""
+
+#: includes/formulario-proveedores.php:114
+#: includes/formulario-contratistas.php:104
+msgid ""
+"Por favor introduce los proyectos relevantes de la empresa de los últimos 3 "
+"años."
+msgstr ""
+
+#: includes/formulario-contratistas.php:115
+msgid ""
+"Por favor introduce si cuentas con personal especializado en Seguridad e "
+"Higiene y todos los detalles al respecto."
+msgstr ""
+
+#: page-movimiento-global.php:94
+msgid "Por favor introduce tu carrera profesional."
+msgstr ""
+
+#: page-contactanos.php:69
+msgid "Por favor introduce tu ciudad."
+msgstr ""
+
+#: page-movimiento-global.php:72
+msgid "Por favor introduce tu edad actual."
+msgstr ""
+
+#: includes/formulario-proveedores.php:22
+#: includes/formulario-contratistas.php:22
+msgid "Por favor introduce tu nombre comercial completo."
+msgstr ""
+
+#: page-bolsa-de-trabajo.php:52 page-contactanos.php:47
+#: page-movimiento-global.php:50 includes/formulario-proveedores.php:148
+#: includes/formulario-proveedores.php:193
+#: includes/formulario-contratistas.php:181
+#: includes/formulario-contratistas.php:226
+msgid "Por favor introduce tu nombre completo."
+msgstr ""
+
+#: includes/formulario-proveedores.php:11
+#: includes/formulario-contratistas.php:11
+msgid "Por favor introduce tu razón social completa."
+msgstr ""
+
+#: page-movimiento-global.php:105
+msgid "Por favor introduce tu semestre actual."
+msgstr ""
+
+#: includes/formulario-proveedores.php:33
+#: includes/formulario-contratistas.php:33
+msgid "Por favor introduce tu ubicación actual."
+msgstr ""
+
+#: includes/formulario-contratistas.php:126
+msgid "Por favor introduce tus años de experiencia en este rubro."
+msgstr ""
+
+#: includes/formulario-contratistas.php:137
+msgid "Por favor introduce tus certificaciones."
+msgstr ""
+
+#: page-bolsa-de-trabajo.php:109
+msgid "Por favor introduce tus comentarios."
+msgstr ""
+
+#: includes/formulario-contratistas.php:147
+msgid "Por favor introduce tus cursos tomados."
+msgstr ""
+
+#: page-contactanos.php:636
+msgid "Por favor introduce tus dudas o comentarios."
+msgstr ""
+
+#: page-bolsa-de-trabajo.php:63 page-contactanos.php:615
+#: includes/formulario-proveedores.php:170
+#: includes/formulario-proveedores.php:215
+#: includes/formulario-contratistas.php:203
+#: includes/formulario-contratistas.php:248
+msgid "Por favor introduce un correo electrónico válido."
+msgstr ""
+
+#: page-bolsa-de-trabajo.php:99
+msgid "Por favor selecciona el puesto al que deseas postularte."
+msgstr ""
+
+#: page-contactanos.php:113 page-movimiento-global.php:160
+msgid "Por favor selecciona tu Estado."
+msgstr ""
+
+#: page-contactanos.php:604
+msgid "Por favor selecciona tu país."
+msgstr ""
+
+#: includes/formulario-proveedores.php:103
+#: includes/formulario-contratistas.php:93
+msgid "Por favor selecciona una opción."
+msgstr ""
+
+#: page-bolsa-de-trabajo.php:35
+msgid "Postúlate"
+msgstr ""
+
+#: page-somos-geg.php:231
+msgid "Presencia"
+msgstr ""
+
+#. Name of the template
+msgid "Proveedores y contratistas"
+msgstr ""
+
+#: taxonomy-estado.php:61 single-proyectos.php:22
+#: includes/carrusel-proyectos.php:27 includes/carrusel-proyectos.php:136
+msgid "Proyecto"
+msgstr ""
+
+#: includes/formulario-proveedores.php:108
+#: includes/formulario-proveedores.php:109
+#: includes/formulario-contratistas.php:98
+#: includes/formulario-contratistas.php:99
+msgid "Proyectos relevantes (últimos 3 años)"
+msgstr ""
+
+#: loop.php:18 page-global-news-blog.php:58
+msgid "Publicado el:"
+msgstr ""
+
+#: page-bolsa-de-trabajo.php:78 page-bolsa-de-trabajo.php:94
+msgid "Puesto"
+msgstr ""
+
+#: page-bolsa-de-trabajo.php:79
+msgid "Puesto al que deseas postularte"
+msgstr ""
+
+#: 404.php:16
+msgid "Página no encontrada"
+msgstr ""
+
+#: includes/formulario-proveedores.php:4 includes/formulario-proveedores.php:6
+#: includes/formulario-contratistas.php:4
+#: includes/formulario-contratistas.php:6
+msgid "Razón social"
+msgstr ""
+
+#: 404.php:17
+msgid "regresar al inicio"
+msgstr ""
+
+#: includes/formulario-proveedores.php:242
+msgid "RFC - Constancia"
+msgstr ""
+
+#: includes/formulario-contratistas.php:107
+msgid "Seguridad"
+msgstr ""
+
+#: includes/carrusel-nuestra-especialidad.php:5
+msgid "Selecciona un Estado"
+msgstr ""
+
+#: page-movimiento-global.php:98 page-movimiento-global.php:100
+msgid "Semestre"
+msgstr ""
+
+#: includes/formulario-proveedores.php:95
+#: includes/formulario-contratistas.php:85
+msgid "Si"
+msgstr ""
+
+#: page-somos-geg.php:19
+msgid "Somos"
+msgstr ""
+
+#. Name of the template
+msgid "Somos GEG"
+msgstr ""
+
+#: page-bolsa-de-trabajo.php:114 page-movimiento-global.php:165
+msgid "Sube tu CV en formato PDF"
+msgstr ""
+
+#: page-bolsa-de-trabajo.php:119 includes/formulario-proveedores.php:237
+#: includes/formulario-proveedores.php:247
+#: includes/formulario-proveedores.php:257
+#: includes/formulario-contratistas.php:272
+msgid "Tamaño máximo de archivo: 10 MB"
+msgstr ""
+
+#: page-bolsa-de-trabajo.php:67 page-bolsa-de-trabajo.php:69
+#: page-contactanos.php:619 page-contactanos.php:621
+#: page-movimiento-global.php:76 page-movimiento-global.php:78
+#: includes/formulario-proveedores.php:152
+#: includes/formulario-proveedores.php:154
+#: includes/formulario-proveedores.php:197
+#: includes/formulario-proveedores.php:199
+#: includes/formulario-contratistas.php:185
+#: includes/formulario-contratistas.php:187
+#: includes/formulario-contratistas.php:230
+#: includes/formulario-contratistas.php:232
+msgid "Teléfono"
+msgstr ""
+
+#: includes/formulario-proveedores.php:174
+#: includes/formulario-proveedores.php:176
+#: includes/formulario-proveedores.php:219
+#: includes/formulario-proveedores.php:221
+#: includes/formulario-contratistas.php:207
+#: includes/formulario-contratistas.php:209
+#: includes/formulario-contratistas.php:252
+#: includes/formulario-contratistas.php:254
+msgid "Teléfono celular"
+msgstr ""
+
+#: footer.php:25 page-contactanos.php:27
+msgid "Teléfonos"
+msgstr ""
+
+#. Description of the theme
+msgid "Tema del sitio de Global Engineering Group."
+msgstr ""
+
+#: footer.php:146
+msgid "Todos los derechos reservados."
+msgstr ""
+
+#: page-contactanos.php:630 page-contactanos.php:631
+msgid "Tus dudas o comentarios"
+msgstr ""
+
+#: includes/formulario-proveedores.php:26
+#: includes/formulario-proveedores.php:28
+#: includes/formulario-contratistas.php:26
+#: includes/formulario-contratistas.php:28
+msgid "Ubicación"
+msgstr ""
+
+#: taxonomy-estado.php:72 single-proyectos.php:33
+#: includes/carrusel-proyectos.php:38 includes/carrusel-proyectos.php:147
+msgid "Ubicación:"
+msgstr ""
+
+#: page-movimiento-global.php:109 page-movimiento-global.php:111
+msgid "Universidad"
+msgstr ""
+
+#: page-bolsa-de-trabajo.php:22
+msgid "Vacantes"
+msgstr ""
+
+#: page-somos-geg.php:103
+msgid "Valores"
+msgstr ""
+
+#: page-somos-geg.php:50
+msgid "valores"
+msgstr ""
+
+#: includes/formulario-proveedores.php:184
+#: includes/formulario-contratistas.php:217
+msgid "Ventas"
+msgstr ""
+
+#: page-somos-geg.php:86
+msgid "Visión"
+msgstr ""
+
+#: includes/formulario-proveedores.php:82
+#: includes/formulario-proveedores.php:84
+#: includes/formulario-contratistas.php:72
+#: includes/formulario-contratistas.php:74
+msgid "Volumen anual de ventas"
+msgstr ""
+
+#: page-bolsa-de-trabajo.php:49 page-bolsa-de-trabajo.php:60
+#: page-bolsa-de-trabajo.php:71 page-bolsa-de-trabajo.php:96
+#: page-bolsa-de-trabajo.php:106 page-contactanos.php:44
+#: page-contactanos.php:55 page-contactanos.php:66 page-contactanos.php:110
+#: page-contactanos.php:601 page-contactanos.php:612 page-contactanos.php:623
+#: page-contactanos.php:633 page-movimiento-global.php:47
+#: page-movimiento-global.php:58 page-movimiento-global.php:69
+#: page-movimiento-global.php:80 page-movimiento-global.php:91
+#: page-movimiento-global.php:102 page-movimiento-global.php:113
+#: page-movimiento-global.php:157 includes/formulario-proveedores.php:8
+#: includes/formulario-proveedores.php:19
+#: includes/formulario-proveedores.php:30
+#: includes/formulario-proveedores.php:52
+#: includes/formulario-proveedores.php:64
+#: includes/formulario-proveedores.php:75
+#: includes/formulario-proveedores.php:86
+#: includes/formulario-proveedores.php:100
+#: includes/formulario-proveedores.php:111
+#: includes/formulario-proveedores.php:122
+#: includes/formulario-proveedores.php:132
+#: includes/formulario-proveedores.php:145
+#: includes/formulario-proveedores.php:156
+#: includes/formulario-proveedores.php:167
+#: includes/formulario-proveedores.php:178
+#: includes/formulario-proveedores.php:190
+#: includes/formulario-proveedores.php:201
+#: includes/formulario-proveedores.php:212
+#: includes/formulario-proveedores.php:223
+#: includes/formulario-contratistas.php:8
+#: includes/formulario-contratistas.php:19
+#: includes/formulario-contratistas.php:30
+#: includes/formulario-contratistas.php:42
+#: includes/formulario-contratistas.php:54
+#: includes/formulario-contratistas.php:65
+#: includes/formulario-contratistas.php:76
+#: includes/formulario-contratistas.php:90
+#: includes/formulario-contratistas.php:101
+#: includes/formulario-contratistas.php:112
+#: includes/formulario-contratistas.php:123
+#: includes/formulario-contratistas.php:134
+#: includes/formulario-contratistas.php:144
+#: includes/formulario-contratistas.php:155
+#: includes/formulario-contratistas.php:165
+#: includes/formulario-contratistas.php:178
+#: includes/formulario-contratistas.php:189
+#: includes/formulario-contratistas.php:200
+#: includes/formulario-contratistas.php:211
+#: includes/formulario-contratistas.php:223
+#: includes/formulario-contratistas.php:234
+#: includes/formulario-contratistas.php:245
+#: includes/formulario-contratistas.php:256
+msgid "¡Se ve bien!"
+msgstr ""
+
+#: includes/formulario-contratistas.php:109
+#: includes/formulario-contratistas.php:110
+msgid "¿Cuenta con personal especializado en Seguridad e Higiene?"
+msgstr ""
+
+#: includes/formulario-proveedores.php:119
+#: includes/formulario-proveedores.php:120
+#: includes/formulario-contratistas.php:152
+#: includes/formulario-contratistas.php:153
+msgid ""
+"¿Cómo garantiza su empresa la calidad de sus productos o equipos que "
+"suministra?"
+msgstr ""
+
+#: includes/formulario-proveedores.php:93
+#: includes/formulario-proveedores.php:94
+#: includes/formulario-proveedores.php:98
+#: includes/formulario-contratistas.php:83
+#: includes/formulario-contratistas.php:84
+#: includes/formulario-contratistas.php:88
+msgid "¿Puede tramitar fianzas?"
+msgstr ""
+
+#: taxonomy-estado.php:77 single-proyectos.php:38
+#: includes/carrusel-proyectos.php:43 includes/carrusel-proyectos.php:152
+msgid "Área:"
+msgstr ""

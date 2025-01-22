@@ -1,0 +1,25 @@
+.accordion {
+    --bs-accordion-btn-icon: none;
+    --bs-accordion-btn-active-icon: none;
+    --bs-accordion-border-width: 0;
+    --bs-accordion-border-radius: 0;
+    --bs-accordion-inner-border-radius: 0;
+    --bs-accordion-btn-padding-y: 2rem;
+    --bs-accordion-btn-bg: hsl(0, 0%, 89%);
+    --bs-accordion-active-color: $font-color-verde;
+    --bs-accordion-btn-focus-border-color: none;
+
+    .accordion-button {
+        color: $font-color-verde;
+        font-size: calc(1.375rem + 1.5vw);
+        font-style: italic;
+        font-weight: 900;
+        display: initial;
+        text-align: center;
+        text-transform: uppercase;
+    }
+}
+
+.accordion-button:not(.collapsed) {
+    background-color: hsl(0, 0%, 89%);
+}
