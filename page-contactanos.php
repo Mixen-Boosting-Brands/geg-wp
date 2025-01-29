@@ -59,6 +59,23 @@ $currentlang = get_bloginfo("language");
      endwhile;
  endif; ?>
                     </div>
+
+                <?php if ($currentlang == "en-US"): ?>
+                    <a href="<?php echo get_page_link(
+                        "10882"
+                    ); ?>" class="btn btn-primary btn-block" data-aos="fade-right" data-aos-delay="2200" data-aos-duration="800" data-aos-once="true"><?php esc_html_e(
+    "Citas",
+    "geg"
+); ?></a>
+                <?php else: ?>
+                    <a href="<?php echo get_page_link(
+                        "10875"
+                    ); ?>" class="btn btn-primary btn-block" data-aos="fade-right" data-aos-delay="2200" data-aos-duration="800" data-aos-once="true"><?php esc_html_e(
+    "Citas",
+    "geg"
+); ?></a>
+                <?php endif; ?>
+
                 <?php
                     endwhile;
                 endif; ?>
