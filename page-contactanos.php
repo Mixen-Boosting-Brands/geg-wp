@@ -42,7 +42,7 @@ $currentlang = get_bloginfo("language");
                         "Teléfonos",
                         "geg"
                     ); ?></h4>
-                    <div data-aos="fade-right" data-aos-delay="2100" data-aos-duration="800" data-aos-once="true">
+                    <div class="mb-4" data-aos="fade-right" data-aos-delay="2100" data-aos-duration="800" data-aos-once="true">
                         <?php if (have_rows("telefono_1")):
                             while (have_rows("telefono_1")):
                                 the_row(); ?><a href="tel:+52<?php the_sub_field(
