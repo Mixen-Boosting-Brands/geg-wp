@@ -63,9 +63,11 @@ $currentlang = get_bloginfo("language");
                         "Correo electrónico",
                         "geg"
                     ); ?></h4>
-                    <p data-aos="fade-right" data-aos-delay="2400" data-aos-duration="800" data-aos-once="true">
+                    <a href="mailto:<?php the_sub_field(
+                        "correo_electronico"
+                    ); ?>" data-aos="fade-right" data-aos-delay="2400" data-aos-duration="800" data-aos-once="true">
                         <?php the_sub_field("correo_electronico"); ?>
-                    </p>
+                    </a>
                 <?php if ($currentlang == "en-US"): ?>
                     <a href="<?php echo get_page_link(
                         "10882"
