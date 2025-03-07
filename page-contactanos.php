@@ -59,7 +59,13 @@ $currentlang = get_bloginfo("language");
      endwhile;
  endif; ?>
                     </div>
-
+                    <h4 data-aos="fade-right" data-aos-delay="1800" data-aos-duration="800" data-aos-once="true"><?php esc_html_e(
+                        "Correo electrónico",
+                        "geg"
+                    ); ?></h4>
+                    <p data-aos="fade-right" data-aos-delay="2400" data-aos-duration="800" data-aos-once="true">
+                        <?php the_sub_field("correo_electronico"); ?>
+                    </p>
                 <?php if ($currentlang == "en-US"): ?>
                     <a href="<?php echo get_page_link(
                         "10882"
